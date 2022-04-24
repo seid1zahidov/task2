@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.AssemblyInfo.cs
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\hometaks2233\bin\Debug\netcoreapp3.1\hometaks2233.exe
+C:\Users\Windows\source\repos\hometaks2233\bin\Debug\netcoreapp3.1\hometaks2233.deps.json
+C:\Users\Windows\source\repos\hometaks2233\bin\Debug\netcoreapp3.1\hometaks2233.runtimeconfig.json
+C:\Users\Windows\source\repos\hometaks2233\bin\Debug\netcoreapp3.1\hometaks2233.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\hometaks2233\bin\Debug\netcoreapp3.1\hometaks2233.dll
+C:\Users\Windows\source\repos\hometaks2233\bin\Debug\netcoreapp3.1\hometaks2233.pdb
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.dll
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.pdb
+C:\Users\Windows\source\repos\hometaks2233\obj\Debug\netcoreapp3.1\hometaks2233.genruntimeconfig.cache
